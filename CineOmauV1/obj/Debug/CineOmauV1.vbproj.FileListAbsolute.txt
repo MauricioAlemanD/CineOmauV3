@@ -1,0 +1,6 @@
+C:\Users\Mau\Documents\GitHub\CineOmauV3\CineOmauV1\obj\Debug\CineOmauV1.vbproj.AssemblyReference.cache
+C:\Users\Mau\Documents\GitHub\CineOmauV3\CineOmauV1\obj\Debug\CineOmauV1.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Mau\Documents\GitHub\CineOmauV3\CineOmauV1\obj\Debug\CineOmauV1.Resources.resources
+C:\Users\Mau\Documents\GitHub\CineOmauV3\CineOmauV1\obj\Debug\CineOmauV1.vbproj.GenerateResource.cache
+C:\Users\Mau\Documents\GitHub\CineOmauV3\CineOmauV1\obj\Debug\CineOmauV1.vbproj.CoreCompileInputs.cache
+C:\Users\Mau\Documents\GitHub\CineOmauV3\CineOmauV1\obj\Debug\CineOmauV1.Login.resources
